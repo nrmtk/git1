@@ -1,6 +1,5 @@
 @charset "utf-8";
-
-#wrapper{
+#wrapper {
     width: 940px;
     margin: 0 auto;
 }
@@ -10,6 +9,7 @@
     margin-bottom: 50px;
     background-color: #fcc;
 }
+
 #main {
     width: 620px;
     height: 500px;
@@ -29,4 +29,10 @@
     height: 100px;
     background-color: #fcc;
     clear: both;
+}
+
+#mv {
+    height: 400px;
+    background-color: #fc0;
+    margin-bottom: 50px;
 }
